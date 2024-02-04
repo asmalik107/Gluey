@@ -1,4 +1,4 @@
-import { createConfig } from '@gluestack-style/react';
+import {createConfig} from '@gluestack-style/react';
 
 export const config = createConfig({
   aliases: {

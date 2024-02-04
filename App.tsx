@@ -5,8 +5,11 @@ import {View} from 'react-native';
 
 const Box = styled(View, {
   bg: '$primary500',
-  h: '$6',
-  w: '$6',
+  //  h: '$6',
+  //  w: '$6',
+  flex: 1,
+  alignItems: 'center',
+  justifyContent: 'center',
 });
 
 const App = () => {
